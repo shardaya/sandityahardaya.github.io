@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sanditya Hardaya"
   avatar           : "profile.png"
-  bio              : "MS student in Business Analytics at Columbia"
+  bio              : "Graduate student in Master of Business Analytics at Columbia"
   location         : "New York"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "shardaya@columbia.edu"
+  email            : "s.hardaya@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linked.com/in/sandityahardaya"
+  linkedin         : "linkedin.com/in/sandityahardaya"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
