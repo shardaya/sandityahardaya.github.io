@@ -14,7 +14,7 @@ majority of public report is associated with poverty, particularly regarding soc
 Sosial or Social Security Card) and BLSM (Bantuan Langsung Sementara Masyarakat or Temporary Direct Cash Assistance),
 which were not well distributed or not on target.'
 date: 2016-03-08
-venue: 'Proceedings of the 2016 International Conference on Industrial Engineering and Operations Managemen'
+venue: 'Proceedings of the 2016 International Conference on Industrial Engineering and Operations Management'
 paperurl: 'https://ieomsociety.org/ieom_2016/pdfs/320.pdf'
 citation: 'I. Surjandari, C. Megawati, A. Dhini and I.B.N. Sanditya Hardaya. (2016). "Application of text mining for classification of textual reports: A study of Indonesia’s national complaint handling system" <i>Proceedings of the International Conference on Industrial Engineering and Operations Management</i>, pp. 1147-1156, March 2016.'
 ---
