@@ -1,0 +1,20 @@
+---
+title: "Multi-attribute control chart design for bronze pipe fittings production"
+collection: publications
+permalink: /publication/2016-03-08-multi-attribute-control-chart-design-for-bronze-pipe-fittings-production
+excerpt: 'Quality becomes one of the most important factors for sustaining company competitiveness in this intense industry
+competition. To control the quality of the ongoing production process, the common method used is Statistical Process Control
+(SPC), which is basically part of Statistical Quality Control (SQC). The primary tool used in SPC is control chart. Many companies
+conduct quality control by performing inspections of product defect with more than one defect attributes, or multi-attribute. Such
+conditions require the use of multi-attribute control chart. However, unlike the research developments in the field of multivar iate
+control charts, little research has been done in the field of multi-attribute control charts. This research proposed a framewor k of
+statistical process control for some simultaneously correlated defect characteristics on bronze pipe fittings production proces s
+using multivariate np chart (MNP chart). The MNP chart consists of Phase I as the formulation of the initial control limits usi ng
+the preliminary sample and Phase II as a reference for future st atistical process control. The result of Phase I and II of the multi-
+attribute control chart application indicates that there were out-of-control processes, to then be identified and analyzed the main
+contributor of the cause.'
+date: 2016-03-08
+venue: 'Proceedings of the 2016 International Conference on Industrial Engineering and Operations Management'
+paperurl: 'https://ieomsociety.org/ieom_2016/pdfs/322.pdf'
+citation: 'I.B.N. Sanditya Hardaya, A.P. Setyana, I. Surjandari, and A. Dhini. (2016). "Multi-attribute control chart design for bronze pipe fittings production" <i>Proceedings of the International Conference on Industrial Engineering and Operations Management</i>, pp. 1157-1166, March 2016.'
+---
