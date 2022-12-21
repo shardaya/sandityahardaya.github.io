@@ -18,8 +18,3 @@ venue: 'Proceedings of the 2016 International Conference on Industrial Engineeri
 paperurl: 'https://ieomsociety.org/ieom_2016/pdfs/320.pdf'
 citation: 'I. Surjandari, C. Megawati, A. Dhini and I.B.N. Sanditya Hardaya. (2016). "Application of text mining for classification of textual reports: A study of Indonesia’s national complaint handling system" <i>Proceedings of the International Conference on Industrial Engineering and Operations Management</i>, pp. 1147-1156, March 2016.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: I. Surjandari, C. Megawati, A. Dhini and I.B.N. Sanditya Hardaya. (2016). "Application of text mining for classification of textual reports: A study of Indonesia’s national complaint handling system" <i>Proceedings of the International Conference on Industrial Engineering and Operations Management</i>, pp. 1147-1156, March 2016.
