@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Business Analytics, Columbia University, 2023 (expected)
+* B.Eng. in Industrial Engineering, Universitas Indonesia
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* 2021 - 2022: Consultant
+  * Deloitte Consulting
+  * Duties included:
+    * Building business intelligence in the cloud for an optical retailer company.
+    * Performed migration of relational database and ETL jobs to cloud environments for a leading tobacco company.
   * Supervisor: Professor Git
 
 * Fall 2015: Research Assistant
