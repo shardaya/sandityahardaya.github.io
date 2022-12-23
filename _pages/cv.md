@@ -20,22 +20,38 @@ Work experience
   * Deloitte Consulting
   * Duties included:
     * Building business intelligence in the cloud for an optical retailer company.
-    * Performed migration of relational database and ETL jobs to cloud environments for a leading tobacco company.
-  * Supervisor: Professor Git
+    * Performing migration of relational database and ETL jobs to cloud environments for a leading tobacco company.
+    * Delivering machine learning solution of customer segmentation based on recency, frequency, and monetary analysis for a furniture retailer company.
+    * Designing data model and network analysis for cybersecurity analytics of a telecommunication operator company.
+    * Developing non-performing loans (NPL) prediction model as part of digital transformation initiative of the largest bank in Indonesia.
+  * Supervisor: Rio Ricardo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2019 - 2021: Senior Consultant
+  * IBM Global Business Services
+  * Duties included:
+    * Driving CSR initiatives with the Ministry of Health of Indonesia to build business intelligence solutions showing the progress of COVID-19 counter measurements.
+    * Devising machine learning solutions for a leading shipping line covering demand forecast, price elasticity, and revenue optimization.
+  * Supervisor: Rio Ricardo
+
+* 2017 - 2019: Consultant
+  * IBM Global Business Services
+  * Duties included:
+    * Delivering operational dashboards integrating supply chain and marketing for the largest energy and petrochemical company in Indonesia.
+    * Implementing business intelligence and predictive maintenance solutions for a heavy equipment distributor.
+    * Empowering a smart city initiative with business intelligence and advanced analytics capability, mainly in terms of traffic prediction.
+  * Supervisor: Rio Ricardo
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* SQL
+* Python
+* Cloud platforms
+  * Amazon Web Services
+  * Google Cloud Platform
+  * Microsoft Azure
+* Business intelligence
+  * Tableau
+  * Microsoft PowerBI
 
 Publications
 ======
@@ -43,6 +59,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+---
 Talks
 ======
   <ul>{% for post in site.talks %}
