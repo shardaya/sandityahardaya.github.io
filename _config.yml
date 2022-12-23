@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sanditya Hardaya"
 title_separator          : "-"
 name                     : &name "Sanditya Hardaya"
-description              : &description "MS student in Business Analytics at Columbia."
+description              : &description "Graduate student in Business Analytics at Columbia."
 url                      : https://shardaya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shardaya/shardaya.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sanditya Hardaya"
   avatar           : "IMG_0331.jpg"
-  bio              : "Graduate student in Master of Business Analytics at Columbia"
+  bio              : "Graduate student in Business Analytics at Columbia"
   location         : "New York"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
