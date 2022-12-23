@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Business Analytics, Columbia University, 2023 (expected)
+* M.S. in Business Analytics, Columbia University
 * B.Eng. in Industrial Engineering, Universitas Indonesia
 
 Work experience
