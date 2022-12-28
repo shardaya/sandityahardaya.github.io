@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Business Analytics, Columbia University
-* B.Eng. in Industrial Engineering, Universitas Indonesia
+* Master's degree, Business Analytics, Columbia University
+* Bachelor's degree, Industrial Engineering, Universitas Indonesia
 
 Work experience
 ======
